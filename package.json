@@ -12,6 +12,7 @@
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "@types/node": "^18.0.6",
-    "node-fetch": "^3.2.6"
+    "node-fetch": "^3.2.6",
+    "qrcode-terminal": "^0.12.0"
   }
 }

@@ -1,7 +1,5 @@
 const fs = require('fs')
-const jadwalKuliahHandler = async (sock, sender, text) => {
-  text = text.split('.jadwal ')[1]
-  text = text.split(' ')
+const jadwalKuliahHandler = async (sock, sender, ...text) => {
   
   const res = jadwalKuliahRequest(...text)
   let hasilJadwal = ''
@@ -29,17 +27,17 @@ const jadwalKuliahRequest = (...text) => {
   const file = JSON.parse(fs.readFileSync('./databases/jadwalkuliah20222.json'))
   data = file.values.filter(array => {
     return array.some((i) => {
-      const kelas = i.toLowerCase().includes(text[0])
-        || (i.replace(/\s/g, '').replace('S1', '').toLowerCase().includes(text[0]))
+      const kelas = i.toLowerCase().includes(text[1])
+        || (i.replace(/\s/g, '').replace('S1', '').toLowerCase().includes(text[1]))
       
       return kelas
     })
   })
 
-  if (text.length === 2) {
+  if (text.length === 3) {
     data = data.filter(array => {
       return array.some(i => {
-        const hari = i.toLowerCase().includes(text[1])
+        const hari = i.toLowerCase().includes(text[2])
         return hari
       })
     })
