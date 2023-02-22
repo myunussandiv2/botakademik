@@ -32,7 +32,25 @@ async function messages(sock) {
         switch (text[0]) {
           case 'menu':
             await sock.readMessages([key])
-            menu(sock, sender)
+            sock.sendMessage(
+              sender,
+              {
+                image: {url: './img/menhera-kun.jpeg'},
+                caption: `*fitur Chat Bot Akademik*
+*_______________________*
+*.jadwal [kelas] [hari]*
+_••>Chat Bot akan menampilkan list jadwal berdasarkan nama kelas_
+contoh: .jadwal si4k senin
+
+*.info [nama kelas]*
+_••>Chat Bot akan menampilkan list nama mahasiswa berdasarkan nama kelas_
+contoh: .info si4k
+
+*.info [nama mahasiswa atau NIM]*
+_••>Chat Bot akan menampilkan detail informasi mahasiswa berdasarkan nama atau nim_
+contoh: .info Muhammad Yunus Sandi`
+              }
+            )
             break;
           case 'jadwal': case 'jadawal':
             await sock.readMessages([key])
