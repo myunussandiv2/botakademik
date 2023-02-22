@@ -1,0 +1,5227 @@
+{
+    "range": "Sheet2!A2:I524",
+    "majorDimension": "ROWS",
+    "values": [
+        [
+            "SK 2A",
+            "SKKB2204",
+            "Struktur Data",
+            "3",
+            "Rolly Yesputra, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SK 2A",
+            "SKKK2108",
+            "Bahasa Inggris 2",
+            "2",
+            "Iin Almeina Loebis, M.S",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SK 2A",
+            "SKKB2206",
+            "Rangkaian Listrik",
+            "3",
+            "Bachtiar Efendi, ST., M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 2A",
+            "SKPK2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SK 2A",
+            "SKKK2109",
+            "Struktur Diskrit",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "RABU",
+            "08:00 – 09:40",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SK 2A",
+            "SKKK2110",
+            "Probabilitas dan Statistik",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SK 2A",
+            "SKKB2203",
+            "Komunikasi Data",
+            "2",
+            "Nofriadi, M.Kom",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SK 2A",
+            "SKKB2207",
+            "Sistem Operasi",
+            "3",
+            "Muhammad Amin, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SK 2A",
+            "SKPK2001",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Mhd. Ihsan, S. Pd.I,. M. Pd",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKKB2204",
+            "Struktur Data",
+            "3",
+            "Iqbal Kamil Siregar, M. Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKKK2108",
+            "Bahasa Inggris 2",
+            "2",
+            "Iin Almeina Loebis, M.S",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKKB2206",
+            "Rangkaian Listrik",
+            "3",
+            "Bachtiar Efendi, ST., M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKPK2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKKK2109",
+            "Struktur Diskrit",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "RABU",
+            "11:50 – 13:30",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKKK2110",
+            "Probabilitas dan Statistik",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "KAMIS",
+            "13:30 – 15:10",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKKB2203",
+            "Komunikasi Data",
+            "2",
+            "Nuriadi Manurung, M.Kom",
+            "JUM’AT",
+            "10:45 – 12:25",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKKB2207",
+            "Sistem Operasi",
+            "3",
+            "Muhammad Amin, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SK 2B",
+            "SKPK2001",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Mhd. Ihsan, S. Pd.I,. M. Pd",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKKB2204",
+            "Struktur Data",
+            "3",
+            "Iqbal Kamil Siregar, M. Kom",
+            "RABU",
+            "19:30 – 21:00",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKKK2108",
+            "Bahasa Inggris 2",
+            "2",
+            "Iin Almeina Loebis, M.S",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKKB2206",
+            "Rangkaian Listrik",
+            "3",
+            "Bachtiar Efendi, ST., M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKPK2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKKK2109",
+            "Struktur Diskrit",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "KAMIS",
+            "19:30 – 21:00",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKKK2110",
+            "Probabilitas dan Statistik",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKKB2203",
+            "Komunikasi Data",
+            "2",
+            "Risnawati, M.Kom",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKKB2207",
+            "Sistem Operasi",
+            "3",
+            "Muhammad Amin, M.Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SK 2C",
+            "SKPK2001",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Mhd. Ihsan, S. Pd.I,. M. Pd",
+            "KAMIS",
+            "17:30 – 19:20",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKKB2204",
+            "Struktur Data",
+            "3",
+            "Iqbal Kamil Siregar, M. Kom",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKKK2108",
+            "Bahasa Inggris 2",
+            "2",
+            "Cecep Maulana, M.S",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKKB2206",
+            "Rangkaian Listrik",
+            "3",
+            "Bachtiar Efendi, ST., M.Kom",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKPK2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKKK2109",
+            "Struktur Diskrit",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKKK2110",
+            "Probabilitas dan Statistik",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKKB2203",
+            "Komunikasi Data",
+            "2",
+            "Nofriadi, M.Kom",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKKB2207",
+            "Sistem Operasi",
+            "3",
+            "Muhammad Amin, M.Kom",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN SK 2A",
+            "SKPK2001",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Sumantri, MH",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SK 4A",
+            "SKKK4112",
+            "Instalasi Komputer dan Troubleshooting",
+            "2",
+            "Adi Prijuna Lubis, M. Kom",
+            "SENIN",
+            "10:45 – 12:25",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SK 4A",
+            "SKKB4214",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Herman Saputra, M. Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SK 4A",
+            "SKKB4215",
+            "Administrasi Jaringan Komputer",
+            "2",
+            "Ruri Azhari Dalimunthe, M.Kom",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "LAB JARINGAN (KAMPUS 1)"
+        ],
+        [
+            "SK 4A",
+            "SKKB4216",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Abdul Karim Syahputra, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SK 4A",
+            "SKKB4217",
+            "Jaringan Nirkabel",
+            "3",
+            "Hari Jalsa Marpaung, M.Kom.",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB ELEKTRO (KAMPUS 1)"
+        ],
+        [
+            "SK 4A",
+            "SKKB4218",
+            "Sensor dan Tranduser",
+            "3",
+            "Ricki Ananda, S.Pd., MT",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SK 4A",
+            "SKKB4219",
+            "Antarmuka dan Periferal",
+            "3",
+            "Adi Mas Afandi, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB ELEKTRO (KAMPUS 1)"
+        ],
+        [
+            "SK 4A",
+            "SKPB4301",
+            "Pengantar Bisnis dan Manajemen",
+            "2",
+            "Bella Astuti, S.E. M.M",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SK 4B",
+            "SKKK4112",
+            "Instalasi Komputer dan Troubleshooting",
+            "2",
+            "Adi Prijuna Lubis, M. Kom",
+            "RABU",
+            "19:30 – 21:00",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SK 4B",
+            "SKKB4214",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Herman Saputra, M. Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SK 4B",
+            "SKKB4215",
+            "Administrasi Jaringan Komputer",
+            "2",
+            "Ruri Azhari Dalimunthe, M.Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SK 4B",
+            "SKKB4216",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Abdul Karim Syahputra, M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SK 4B",
+            "SKKB4217",
+            "Jaringan Nirkabel",
+            "3",
+            "Hari Jalsa Marpaung, M.Kom.",
+            "KAMIS",
+            "17:30 – 19:20",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 4B",
+            "SKKB4218",
+            "Sensor dan Tranduser",
+            "3",
+            "Ricki Ananda, S.Pd., MT",
+            "RABU",
+            "17:30 – 19:20",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 4B",
+            "SKKB4219",
+            "Antarmuka dan Periferal",
+            "3",
+            "Adi Mas Afandi, M.Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 4B",
+            "SKPB4301",
+            "Pengantar Bisnis dan Manajemen",
+            "2",
+            "Bella Astuti, S.E. M.M",
+            "KAMIS",
+            "19:30 – 21:00",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SK 6A",
+            "SKKK6114",
+            "Perancangan Sistem Tertanam",
+            "3",
+            "Jhonson Efendi Hutagalung, S.T., M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB DATABASE (KAMPUS 1)"
+        ],
+        [
+            "SK 6A",
+            "SKKK6115",
+            "Sistem Terdistribusi",
+            "3",
+            "Andrew Ramadhani, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN (KAMPUS 1)"
+        ],
+        [
+            "SK 6A",
+            "SKKK6116",
+            "Network Programming",
+            "3",
+            "Sahren, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN 1 (KAMPUS 1)"
+        ],
+        [
+            "SK 6A",
+            "SKKK6117",
+            "PLC (Programmable Logic Controller)",
+            "3",
+            "Ricki Ananda, S.Pd., MT",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB JARINGAN (KAMPUS 1)"
+        ],
+        [
+            "SK 6A",
+            "SKKK6118",
+            "Kecerdasan Buatan",
+            "3",
+            "Rika Nofitri, M. Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SK 6A",
+            "SKKK6119",
+            "Sistem Waktunyata",
+            "2",
+            "Sahren, M.Kom",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SK 6A",
+            "SKKB6237",
+            "Komputer Vision (Mt. Pilihan)",
+            "2",
+            "Junaidi, M. Kom",
+            "KAMIS",
+            "11:50 -13:30",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 6B",
+            "SKKK6114",
+            "Perancangan Sistem Tertanam",
+            "3",
+            "Jhonson Efendi Hutagalung, S.T., M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB DATABASE (KAMPUS 1)"
+        ],
+        [
+            "SK 6B",
+            "SKKK6115",
+            "Sistem Terdistribusi",
+            "3",
+            "Andrew Ramadhani, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB PEMROGRAMAN (KAMPUS 1)"
+        ],
+        [
+            "SK 6B",
+            "SKKK6116",
+            "Network Programming",
+            "3",
+            "Sahren, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB PEMROGRAMAN 1 (KAMPUS 1)"
+        ],
+        [
+            "SK 6B",
+            "SKKK6117",
+            "PLC (Programmable Logic Controller)",
+            "3",
+            "Ricki Ananda, S.Pd., MT",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB JARINGAN (KAMPUS 1)"
+        ],
+        [
+            "SK 6B",
+            "SKKK6118",
+            "Kecerdasan Buatan",
+            "3",
+            "Rika Nofitri, M. Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SK 6B",
+            "SKKK6119",
+            "Sistem Waktunyata",
+            "2",
+            "Sahren, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SK 6B",
+            "SKKB6237",
+            "Komputer Vision (Mt. Pilihan)",
+            "2",
+            "Junaidi, M. Kom",
+            "KAMIS",
+            "08:00 – 09:40",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 6C",
+            "SKKK6114",
+            "Perancangan Sistem Tertanam",
+            "3",
+            "Jhonson Efendi Hutagalung, S.T., M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "LAB DATABASE 1 (KAMPUS 2)"
+        ],
+        [
+            "SK 6C",
+            "SKKK6115",
+            "Sistem Terdistribusi",
+            "3",
+            "Andrew Ramadhani, M.Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "LAB DATABASE 1 (KAMPUS 2)"
+        ],
+        [
+            "SK 6C",
+            "SKKK6116",
+            "Network Programming",
+            "3",
+            "Sahren, M.Kom",
+            "RABU",
+            "17:30 – 19:20",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "SK 6C",
+            "SKKK6117",
+            "PLC (Programmable Logic Controller)",
+            "3",
+            "Ricki Ananda, S.Pd., MT",
+            "RABU",
+            "19:30 – 21:00",
+            "LAB ELEKTRO (KAMPUS 2)"
+        ],
+        [
+            "SK 6C",
+            "SKKK6118",
+            "Kecerdasan Buatan",
+            "3",
+            "Rika Nofitri, M. Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SK 6C",
+            "SKKK6119",
+            "Sistem Waktunyata",
+            "2",
+            "Sahren, M.Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SK 6C",
+            "SKKB6237",
+            "Komputer Vision (Mt. Pilihan)",
+            "2",
+            "Junaidi, M. Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SK 8A",
+            "SKPB859",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi"
+        ],
+        [
+            "SK 8B",
+            "SKPB859",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi"
+        ],
+        [
+            "SK 8C",
+            "SKPB859",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Sumantri, MH",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Iqbal Kamil Siregar, M. Kom",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Afdhal Syafnur, M.Kom",
+            "SABTU",
+            "13:30 – 19:20",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Novica Irawati, M.Kom",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Cecep Maulana, M.S",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Maulana Dwi Sena, M.Kom",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Nofriadi, M.Kom",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN A",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Sumantri, MH",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Iqbal Kamil Siregar, M. Kom",
+            "SABTU",
+            "13:30 – 19:20",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Afdhal Syafnur, M.Kom",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Novica Irawati, M.Kom",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Cecep Maulana, M.S",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Maulana Dwi Sena, M.Kom",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Nofriadi, M.Kom",
+            "JUM’AT",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "KELAS KARYAWAN B",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "SABTU",
+            "13:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2A",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2A",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Sumantri, MH",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2A",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Raja Tama Andri Agus, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB DATABASE (KAMPUS 1)"
+        ],
+        [
+            "SI 2A",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Edi Kurniawan, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB PEMROGRAMAN 2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2A",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Rika Nofitri, M. Kom",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2A",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Chitra Lattifani, M.Hum",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2A",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Bachtiar Efendi, ST., M.Kom",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2A",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Risnawati, M.Kom",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 2A",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Mustika Fitri Larasati Sibuea, M.Pd",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2B",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2B",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Sumantri, MH",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2B",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Raja Tama Andri Agus, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB DATABASE (KAMPUS 1)"
+        ],
+        [
+            "SI 2B",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Edi Kurniawan, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN 2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2B",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Rika Nofitri, M. Kom",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2B",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Akmal, M.Hum.",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2B",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Irianto, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 2B",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Risnawati, M.Kom",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 2B",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Mustika Fitri Larasati Sibuea, M.Pd",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Ari Dermawan, MH",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Arridha Zikra Syah, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Akmal Nasution, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Chitra Lattifani, M.Hum",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Risnawati, M.Kom",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Nurwati, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2C",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Mustika Fitri Larasati Sibuea, M.Pd",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2D",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2D",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Ari Dermawan, MH",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2D",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Parini, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2D",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Akmal Nasution, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2D",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Rika Nofitri, M. Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 2D",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Akmal, M.Hum.",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 2D",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Prijuna Lubis, M. Kom",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 2D",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Nurwati, M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2D",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2E",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2E",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Sumantri, MH",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2E",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Parini, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2E",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Edi Kurniawan, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2E",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2E",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Akmal, M.Hum.",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 2E",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Prijuna Lubis, M. Kom",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2E",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Fauriatun Helmiah, M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2E",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 2F",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2F",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Nurkarim Nehe, SE, M.Sp",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 2F",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Parini, M.Kom",
+            "SENIN",
+            "13:30 – 16:00",
+            "LAB PEMROGRAMAN 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2F",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Dewi Maharani, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2F",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2F",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Chitra Lattifani, M.Hum",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2F",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Risnawati, M.Kom",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2F",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Fauriatun Helmiah, M.Kom",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2F",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Mustika Fitri Larasati Sibuea, M.Pd",
+            "SELASA",
+            "13:30 – 15:10",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 2G",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2G",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Ari Dermawan, MH",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2G",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Parini, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2G",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Dewi Maharani, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2G",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 2G",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Akmal, M.Hum.",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 2G",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Prijuna Lubis, M. Kom",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2G",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Nurwati, M.Kom",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2G",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Mustika Fitri Larasati Sibuea, M.Pd",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2H",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2H",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Ari Dermawan, MH",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2H",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Nuriadi Manurung, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB PEMROGRAMAN 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2H",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Akmal Nasution, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2H",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2H",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Cecep Maulana, M.S",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 2H",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Mas Afandi, M.Kom",
+            "KAMIS",
+            "13:30 – 15:10",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2H",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Nurwati, M.Kom",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2H",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 2I",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "SELASA",
+            "13:30 – 15:10",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2I",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Nurkarim Nehe, SE, M.Sp",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 2I",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Raja Tama Andri Agus, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "LAB DATABASE (KAMPUS 1)"
+        ],
+        [
+            "SI 2I",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Edi Kurniawan, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2I",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 2I",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Akmal, M.Hum.",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 2I",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Mas Afandi, M.Kom",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2I",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Nurwati, M.Kom",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2I",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2J",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2J",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Nurkarim Nehe, SE, M.Sp",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 2J",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Nuriadi Manurung, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2J",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Edi Kurniawan, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2J",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2J",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Cecep Maulana, M.S",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 2J",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Prijuna Lubis, M. Kom",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 2J",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Mohd. Siddik, ST, M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 2J",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Mustika Fitri Larasati Sibuea, M.Pd",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 2K",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 2K",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Nurkarim Nehe, SE, M.Sp",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2K",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Arridha Zikra Syah, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB DATABASE 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2K",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Dewi Maharani, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2K",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2K",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Iin Almeina Loebis, M.S",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2K",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Risnawati, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2K",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Fauriatun Helmiah, M.Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2K",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2L",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "KAMIS",
+            "13:30 – 15:10",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 2L",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Ari Dermawan, MH",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2L",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Guntur Maha Putra, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "LAB DATABASE 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2L",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Dewi Maharani, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2L",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Rika Nofitri, M. Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 2L",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Cecep Maulana, M.S",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 2L",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Prijuna Lubis, M. Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 2L",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Fauriatun Helmiah, M.Kom",
+            "JUM’AT",
+            "10:45 – 12:25",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2L",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2M",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "RABU",
+            "13:30 – 15:10",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2M",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Sumantri, MH",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2M",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Nuriadi Manurung, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB DATABASE 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2M",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Dewi Maharani, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2M",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Neni Mulyani, M.Kom",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 2M",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Akmal, M.Hum.",
+            "SELASA",
+            "13:30 – 15:10",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 2M",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Maulana Dwi Sena, M.Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2M",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Nofriadi, M.Kom",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 2M",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 2N",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Sri Rezeki Maulina Azmi, M.Pd",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 2N",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Nurkarim Nehe, SE, M.Sp",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 2N",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Guntur Maha Putra, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2N",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Nasrun Marpaung, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2N",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Rika Nofitri, M. Kom",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 2N",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Cecep Maulana, M.S",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2N",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Mas Afandi, M.Kom",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 2N",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Fauriatun Helmiah, M.Kom",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2N",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "KAMIS",
+            "19:30 – 21:00",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Nurkarim Nehe, SE, M.Sp",
+            "SENIN",
+            "17:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Nofriadi, M.Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Nasrun Marpaung, M.Kom",
+            "RABU",
+            "19:30 – 21:00",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Novica Irawati, M.Kom",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Akmal, M.Hum.",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Mas Afandi, M.Kom",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Fauriatun Helmiah, M.Kom",
+            "KAMIS",
+            "17:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2O",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "SENIN",
+            "17:30 – 19:20",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Ari Dermawan, MH",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Nofriadi, M.Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Afdhal Syafnur, M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Novica Irawati, M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Chitra Lattifani, M.Hum",
+            "SELASA",
+            "19:30 – 21:00",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Adi Mas Afandi, M.Kom",
+            "RABU",
+            "19:30 – 21:00",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Fauriatun Helmiah, M.Kom",
+            "KAMIS",
+            "19:30 – 21:00",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2P",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Hidayatullah, S.T., M.Kom",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIPK 2002",
+            "Bahasa Indonesia",
+            "2",
+            "Zulkarnain Sirait, M.Pd",
+            "KAMIS",
+            "17:30 – 19:20",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIPK 2004",
+            "Pendidikan Kewarganegaraan",
+            "2",
+            "Nurkarim Nehe, SE, M.Sp",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIKB 2202",
+            "Algoritma dan Pemrograman",
+            "3",
+            "Guntur Maha Putra, M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "LAB DATABASE 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIKB 2203",
+            "Desain Web",
+            "3",
+            "Afdhal Syafnur, M.Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIKB 2204",
+            "Basis Data Dasar",
+            "2",
+            "Rika Nofitri, M. Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIKK 2107",
+            "Bahasa Inggris 2",
+            "2",
+            "Chitra Lattifani, M.Hum",
+            "SELASA",
+            "17:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIKK 2108",
+            "Organisasi dan Arsitektur Komputer",
+            "2",
+            "Maulana Dwi Sena, M.Kom",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIKK 2109",
+            "Komunikasi Data",
+            "2",
+            "Mohd. Siddik, ST, M.Kom",
+            "RABU",
+            "19:30 – 21:00",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 2Q",
+            "SIKK 2110",
+            "Probabilitas dan Statistika",
+            "2",
+            "Muthia Dewi, M.Pd",
+            "KAMIS",
+            "17:30 – 19:20",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 4A",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Rizky Fauziah, M.Ikom, M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4A",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Wiwin Handoko, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4A",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Novica Irawati, M.Kom",
+            "KAMIS",
+            "08:00 – 09:40",
+            "LAB PEMROGRAMAN (KAMPUS 1)"
+        ],
+        [
+            "SI 4A",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "William Ramdhan, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4A",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Akmal Nasution, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA (KAMPUS 1)"
+        ],
+        [
+            "SI 4A",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Santoso, S.E., M.M",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4A",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Dahriansah, M.Kom",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4A",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Hari Jalsa Marpaung, M.Kom.",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SI 4B",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Rizky Fauziah, M.Ikom, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4B",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Wiwin Handoko, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4B",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Novica Irawati, M.Kom",
+            "SENIN",
+            "10:45 – 12:25",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4B",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "William Ramdhan, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4B",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Yessica Siagian, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4B",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "JUM’AT",
+            "10:45 -12:25",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 4B",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Junaidi, M. Kom",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4B",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Mohd. Siddik, ST, M.Kom",
+            "RABU",
+            "11:50 – 14:20",
+            "LAB JARINGAN (KAMPUS 1)"
+        ],
+        [
+            "SI 4C",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Rizky Fauziah, M.Ikom, M.Kom",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4C",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dewi Anggraeni, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 4C",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Muhammad Iqbal, M.Kom",
+            "KAMIS",
+            "09:55 – 11:35",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4C",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "William Ramdhan, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4C",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Yessica Siagian, M.Kom",
+            "SELASA",
+            "13:30 – 16:00",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4C",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Santoso, S.E., M.M",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4C",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Afrisawati, M.Kom",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 4C",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Hambali, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SI 4D",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Mustika Fitri Larasati Sibuea, M.Pd",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4D",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Amalia, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4D",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Muhammad Iqbal, M.Kom",
+            "KAMIS",
+            "11:50 – 13:30",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4D",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Abdul Karim Syahputra, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SI 4D",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Nasrun Marpaung, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA (KAMPUS 1)"
+        ],
+        [
+            "SI 4D",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Santoso, S.E., M.M",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4D",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Dahriansah, M.Kom",
+            "KAMIS",
+            "13:30 – 15:10",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 4D",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Muhammad Amin, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SI 4E",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Mhd. Ihsan, S. Pd.I,. M. Pd",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4E",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dahriansah, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 4E",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Yessica Siagian, M.Kom",
+            "KAMIS",
+            "08:00 – 09:40",
+            "LAB PEMROGRAMAN 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4E",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Rizaldi, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4E",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Rolly Yesputra, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA (KAMPUS 1)"
+        ],
+        [
+            "SI 4E",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Santoso, S.E., M.M",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4E",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Dahriansah, M.Kom",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 4E",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Mohd. Siddik, ST, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB JARINGAN (KAMPUS 1)"
+        ],
+        [
+            "SI 4F",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Mustika Fitri Larasati Sibuea, M.Pd",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4F",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Amalia, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4F",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Muhammad Iqbal, M.Kom",
+            "KAMIS",
+            "08:00 – 09:40",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4F",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Herman Saputra, M. Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SI 4F",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Yessica Siagian, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4F",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Santoso, S.E., M.M",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4F",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Junaidi, M. Kom",
+            "RABU",
+            "09:55 – 11:35",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4F",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Hari Jalsa Marpaung, M.Kom.",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SI 4G",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Mhd. Ihsan, S. Pd.I,. M. Pd",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 4G",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Amalia, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4G",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Yessica Siagian, M.Kom",
+            "KAMIS",
+            "09:55 – 11:35",
+            "LAB PEMROGRAMAN 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4G",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Rizaldi, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4G",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Rolly Yesputra, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA (KAMPUS 1)"
+        ],
+        [
+            "SI 4G",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 4G",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Afrisawati, M.Kom",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 4G",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Mohd. Siddik, ST, M.Kom",
+            "SENIN",
+            "13:30 – 15:10",
+            "LAB JARINGAN (KAMPUS 1)"
+        ],
+        [
+            "SI 4H",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Mhd. Ihsan, S. Pd.I,. M. Pd",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 4H",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dewi Anggraeni, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 4H",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Novica Irawati, M.Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "LAB PEMROGRAMAN 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4H",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Rizaldi, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4H",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Afdhal Syafnur, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB PEMROGRAMAN 2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4H",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Febby Madonna Yuma, M.Kom",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 4H",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Andrew Ramadhani, M.Kom",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4H",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Jhonson Efendi Hutagalung, S.T., M.Kom",
+            "RABU",
+            "13:30 – 16:00",
+            "LAB INSTALASI (KAMPUS 1)"
+        ],
+        [
+            "SI 4I",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Mhd. Ihsan, S. Pd.I,. M. Pd",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4I",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Wiwin Handoko, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 4I",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Novica Irawati, M.Kom",
+            "KAMIS",
+            "11:50 – 13:30",
+            "LAB PEMROGRAMAN (KAMPUS 1)"
+        ],
+        [
+            "SI 4I",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Rizaldi, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4I",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Guntur Maha Putra, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN 2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4I",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Febby Madonna Yuma, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 4I",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Junaidi, M. Kom",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4I",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Hari Jalsa Marpaung, M.Kom.",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SI 4J",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Mhd. Ihsan, S. Pd.I,. M. Pd",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI A2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4J",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Wiwin Handoko, M.Kom",
+            "JUM’AT",
+            "09:55 – 12:25",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4J",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Novica Irawati, M.Kom",
+            "KAMIS",
+            "09:55 – 11:35",
+            "LAB PEMROGRAMAN (KAMPUS 1)"
+        ],
+        [
+            "SI 4J",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Rizaldi, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4J",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Akmal Nasution, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA (KAMPUS 1)"
+        ],
+        [
+            "SI 4J",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Febby Madonna Yuma, M.Kom",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 4J",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Herman Saputra, M. Kom",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 4J",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Ruri Azhari Dalimunthe, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB INSTALASI (KAMPUS 1)"
+        ],
+        [
+            "SI 4K",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Indra Ramadona Harahap, M.A",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 4K",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Wiwin Handoko, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 4K",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Yessica Siagian, M.Kom",
+            "RABU",
+            "13:30 – 15:10",
+            "LAB DATABASE SERVER (KAMPUS 1)"
+        ],
+        [
+            "SI 4K",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Zulfan Efendi, M. Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4K",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Nasrun Marpaung, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA (KAMPUS 1)"
+        ],
+        [
+            "SI 4K",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 4K",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Dahriansah, M.Kom",
+            "KAMIS",
+            "11:50 – 13:30",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 4K",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Ruri Azhari Dalimunthe, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "LAB INSTALASI (KAMPUS 1)"
+        ],
+        [
+            "SI 4L",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Indra Ramadona Harahap, M.A",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4L",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dewi Anggraeni, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4L",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Yessica Siagian, M.Kom",
+            "RABU",
+            "11:50 – 13:30",
+            "LAB DATABASE SERVER (KAMPUS 1)"
+        ],
+        [
+            "SI 4L",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Abdul Karim Syahputra, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4L",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Rolly Yesputra, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA (KAMPUS 1)"
+        ],
+        [
+            "SI 4L",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4L",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Afrisawati, M.Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 4L",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Zulfan Efendi, M. Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB INSTALASI (KAMPUS 1)"
+        ],
+        [
+            "SI 4M",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 4M",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dewi Anggraeni, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 4M",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Yessica Siagian, M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "LAB DATABASE SERVER (KAMPUS 1)"
+        ],
+        [
+            "SI 4M",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Zulfan Efendi, M. Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN 1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4M",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Guntur Maha Putra, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB PEMROGRAMAN 2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4M",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "SELASA",
+            "13:30 – 15:10",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 4M",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Dahriansah, M.Kom",
+            "JUM’AT",
+            "10:45 – 12:25",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 4M",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Hari Jalsa Marpaung, M.Kom.",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB INSTALASI (KAMPUS 1)"
+        ],
+        [
+            "SI 4N",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "SENIN",
+            "13:30 – 15:10",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4N",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dahriansah, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 4N",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Yessica Siagian, M.Kom",
+            "SENIN",
+            "11:50 – 13:30",
+            "LAB DATABASE SERVER (KAMPUS 1)"
+        ],
+        [
+            "SI 4N",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Zulfan Efendi, M. Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB PEMROGRAMAN 1 (KAMPUS 1)"
+        ],
+        [
+            "SI 4N",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Yori Apridonal M, M.Kom.",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB PEMROGRAMAN 2 (KAMPUS 1)"
+        ],
+        [
+            "SI 4N",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 4N",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Andrew Ramadhani, M.Kom",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 4N",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Mohd. Siddik, ST, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB JARINGAN (KAMPUS 1)"
+        ],
+        [
+            "SI 4O",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 4O",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dewi Anggraeni, M.Kom",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 4O",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Muhammad Iqbal, M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SI 4O",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Rizaldi, M.Kom",
+            "KAMIS",
+            "17:30 – 19:20",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SI 4O",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Guntur Maha Putra, M.Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4O",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "RABU",
+            "19:30 – 21:00",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 4O",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Andrew Ramadhani, M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 4O",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Mohd. Siddik, ST, M.Kom",
+            "RABU",
+            "17:30 – 19:20",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SI 4P",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 4P",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dewi Anggraeni, M.Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 4P",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Muhammad Iqbal, M.Kom",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SI 4P",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Rizaldi, M.Kom",
+            "KAMIS",
+            "19:30 – 21:00",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SI 4P",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Guntur Maha Putra, M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "LAB DESAIN GRAFIS 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 4P",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C3 (KAMPUS 2)"
+        ],
+        [
+            "SI 4P",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Junaidi, M. Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 4P",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Ruri Azhari Dalimunthe, M.Kom",
+            "KAMIS",
+            "17:30 – 19:20",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SI 4Q",
+            "SIBB 4401",
+            "Kecakapan Antar Personal",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 4Q",
+            "SIKB 4210",
+            "Rekayasa Perangkat Lunak",
+            "3",
+            "Dewi Anggraeni, M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 4Q",
+            "SIKB 4211",
+            "Manajemen Basis data",
+            "2",
+            "Novica Irawati, M.Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SI 4Q",
+            "SIKB 4212",
+            "Pemrograman Visual",
+            "3",
+            "Zulfan Efendi, M. Kom",
+            "RABU",
+            "19:30 – 21:00",
+            "LAB DATABASE SERVER (KAMPUS 2)"
+        ],
+        [
+            "SI 4Q",
+            "SIKB 4213",
+            "Web Programming",
+            "3",
+            "Nasrun Marpaung, M.Kom",
+            "RABU",
+            "17:30 – 19:20",
+            "LAB DESAIN GRAFIS 3 (KAMPUS 2)"
+        ],
+        [
+            "SI 4Q",
+            "SIKB 4214",
+            "Analisis Proses Bisnis",
+            "2",
+            "Endra Saputra, S.E., M.AK",
+            "KAMIS",
+            "17:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 4Q",
+            "SIKK 4113",
+            "Interaksi Manusia dan Komputer",
+            "2",
+            "Junaidi, M. Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 4Q",
+            "SIKK 4114",
+            "Jaringan Komputer",
+            "3",
+            "Ruri Azhari Dalimunthe, M.Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "LAB INSTALASI (KAMPUS 2)"
+        ],
+        [
+            "SI 6A",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "M. Ardiansyah Sembiring, M.Kom.",
+            "SELASA",
+            "10:45 – 13:15",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6A",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Yori Apridonal M, M.Kom.",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6A",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Tika Christy, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 6A",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Dr. Ir. Zulfi Azhar, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6A",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Riki Andri Yusda, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6A",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Sudarmin, M.Kom",
+            "SENIN",
+            "11:50 – 13:30",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 6A",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Elly Rahayu, M.M",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6B",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "M. Ardiansyah Sembiring, M.Kom.",
+            "SENIN",
+            "13:30 – 16:00",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6B",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Yori Apridonal M, M.Kom.",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6B",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Tika Christy, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6B",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Arridha Zikra Syah, M.Kom",
+            "SELASA",
+            "13:30 – 16:00",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6B",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Riki Andri Yusda, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6B",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Sudarmin, M.Kom",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6B",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Elly Rahayu, M.M",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6C",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Afrisawati, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 6C",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Khairul Abdi Sinuraya, M.Kom.",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6C",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Suci Andriyani, M.Kom",
+            "SENIN",
+            "08:00 – 10:30",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6C",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Havid Syafwan, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6C",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Hambali, M.Kom",
+            "KAMIS",
+            "13:30 – 16:00",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 6C",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Sudarmin, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6C",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Elly Rahayu, M.M",
+            "KAMIS",
+            "09:55 – 11:35",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6D",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Jeperson Hutahaean, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 6D",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Khairul Abdi Sinuraya, M.Kom.",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6D",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Suci Andriyani, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6D",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Arridha Zikra Syah, M.Kom",
+            "KAMIS",
+            "13:30 – 16:00",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6D",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Riki Andri Yusda, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6D",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Parini, M.Kom",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6D",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Elly Rahayu, M.M",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI C2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6E",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Jeperson Hutahaean, M.Kom",
+            "SELASA",
+            "13:30 – 16:00",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6E",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Febri Dristyan, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6E",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Tika Christy, M.Kom",
+            "SENIN",
+            "13:30 – 16:00",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6E",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Havid Syafwan, M.Kom",
+            "JUM’AT",
+            "09:55 – 12:25",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6E",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Hambali, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 6E",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Parini, M.Kom",
+            "SELASA",
+            "09:55 – 11:35",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6E",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "SELASA",
+            "08:00 – 09:40",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 6F",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Masitah Handayani, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 6F",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Febri Dristyan, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6F",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Irianto, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6F",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Arridha Zikra Syah, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6F",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Hambali, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 6F",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Sudarmin, M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 6F",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Elly Rahayu, M.M",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 6G",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Masitah Handayani, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 6G",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Mardalius, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6G",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Irianto, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 6G",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Indra Ramadona Harahap, M.A",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6G",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Andri Nata, S.T., M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6G",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "SENIN",
+            "08:00 – 09:40",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 6G",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "SELASA",
+            "11:50 – 13:30",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 6H",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Masitah Handayani, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6H",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Mardalius, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6H",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Suci Andriyani, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6H",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Havid Syafwan, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI B4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6H",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Riki Andri Yusda, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6H",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Febby Madonna Yuma, M.Kom",
+            "RABU",
+            "08:00 – 09:40",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6H",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "JUM’AT",
+            "10:45 – 12:25",
+            "TEORI B3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6I",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "M. Ardiansyah Sembiring, M.Kom.",
+            "SELASA",
+            "08:00 – 10:30",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6I",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Febri Dristyan, M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "LAB MULTIMEDIA 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6I",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Suci Andriyani, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6I",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Indra Ramadona Harahap, M.A",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6I",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Muhammad Iqbal, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 6I",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Febby Madonna Yuma, M.Kom",
+            "RABU",
+            "11:50 – 13:30",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6I",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Bella Astuti, S.E. M.M",
+            "JUM’AT",
+            "10:45 – 12:25",
+            "TEORI B2 (KAMPUS 1)"
+        ],
+        [
+            "SI 6J",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Amalia, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 6J",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Mardalius, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA 1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6J",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Suci Andriyani, M.Kom",
+            "SENIN",
+            "10:45 – 13:15",
+            "TEORI A4 (KAMPUS 1)"
+        ],
+        [
+            "SI 6J",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Dr. Ir. Zulfi Azhar, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "TEORI B7 (KAMPUS 1)"
+        ],
+        [
+            "SI 6J",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Andri Nata, S.T., M.Kom",
+            "SELASA",
+            "13:30 – 16:00",
+            "TEORI B7 (KAMPUS 1)"
+        ],
+        [
+            "SI 6J",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Febby Madonna Yuma, M.Kom",
+            "JUM’AT",
+            "08:00 – 09:40",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6J",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "SENIN",
+            "13:30 – 15:10",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 6K",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Raja Tama Andri Agus, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6K",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Mardalius, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6K",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Irianto, M.Kom",
+            "KAMIS",
+            "08:00 – 10:30",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6K",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Dr. Ir. Zulfi Azhar, M.Kom",
+            "SELASA",
+            "08:00 – 10:30",
+            "TEORI B7 (KAMPUS 1)"
+        ],
+        [
+            "SI 6K",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Hambali, M.Kom",
+            "RABU",
+            "10:45 – 13:15",
+            "TEORI B7 (KAMPUS 1)"
+        ],
+        [
+            "SI 6K",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Febby Madonna Yuma, M.Kom",
+            "JUM’AT",
+            "09:55 – 11:35",
+            "TEORI A3 (KAMPUS 1)"
+        ],
+        [
+            "SI 6K",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 6L",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Jeperson Hutahaean, M.Kom",
+            "SELASA",
+            "10:45 – 13:15",
+            "TEORI B5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6L",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Mardalius, M.Kom",
+            "SENIN",
+            "13:30 – 16:00",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6L",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Tika Christy, M.Kom",
+            "KAMIS",
+            "10:45 – 13:15",
+            "TEORI A5 (KAMPUS 1)"
+        ],
+        [
+            "SI 6L",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Arridha Zikra Syah, M.Kom",
+            "JUM’AT",
+            "08:00 – 10:30",
+            "TEORI B6 (KAMPUS 1)"
+        ],
+        [
+            "SI 6L",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Andri Nata, S.T., M.Kom",
+            "RABU",
+            "08:00 – 10:30",
+            "TEORI B7 (KAMPUS 1)"
+        ],
+        [
+            "SI 6L",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "SENIN",
+            "09:55 – 11:35",
+            "TEORI B1 (KAMPUS 1)"
+        ],
+        [
+            "SI 6L",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "KAMIS",
+            "08:00 – 09:40",
+            "TEORI A1 (KAMPUS 1)"
+        ],
+        [
+            "SI 6M",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Masitah Handayani, M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6M",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Febri Dristyan, M.Kom",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6M",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Suci Andriyani, M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C4 (KAMPUS 2)"
+        ],
+        [
+            "SI 6M",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Indra Ramadona Harahap, M.A",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 6M",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Hambali, M.Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6M",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "KAMIS",
+            "19:30 – 21:00",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6M",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "RABU",
+            "19:30 – 21:00",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 6N",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Jeperson Hutahaean, M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 6N",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Febri Dristyan, M.Kom",
+            "SELASA",
+            "19:30 – 21:00",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6N",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Suci Andriyani, M.Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 6N",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Havid Syafwan, M.Kom",
+            "KAMIS",
+            "19:30 – 21:00",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6N",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Andri Nata, S.T., M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6N",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Ahmad Muhazir, M.Kom.",
+            "RABU",
+            "19:30 – 21:00",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6N",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Bella Astuti, S.E. M.M",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6O",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Masitah Handayani, M.Kom",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6O",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Yori Apridonal M, M.Kom.",
+            "RABU",
+            "19:30 – 21:00",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6O",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Irianto, M.Kom",
+            "KAMIS",
+            "17:30 – 19:20",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6O",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Dr. Ir. Zulfi Azhar, M.Kom",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6O",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Hambali, M.Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6O",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 6O",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Bella Astuti, S.E. M.M",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6P",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Jeperson Hutahaean, M.Kom",
+            "SENIN",
+            "17:30 – 19:20",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 6P",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Febri Dristyan, M.Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6P",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Tika Christy, M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 6P",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Arridha Zikra Syah, M.Kom",
+            "RABU",
+            "19:30 – 21:00",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 6P",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Andri Nata, S.T., M.Kom",
+            "JUM’AT",
+            "19:30 – 21:00",
+            "TEORI C5 (KAMPUS 2)"
+        ],
+        [
+            "SI 6P",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Ahmad Muhazir, M.Kom",
+            "KAMIS",
+            "17:30 – 19:20",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6P",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6Q",
+            "SIKB 6219",
+            "Sistem Pendukung Keputusan",
+            "3",
+            "Masitah Handayani, M.Kom",
+            "RABU",
+            "17:30 – 19:20",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 6Q",
+            "SIKB 6220",
+            "Sistem Informasi Geografis",
+            "3",
+            "Febri Dristyan, M.Kom",
+            "JUM’AT",
+            "17:30 – 19:20",
+            "LAB MULTIMEDIA 2 (KAMPUS 2)"
+        ],
+        [
+            "SI 6Q",
+            "SIKK 6118",
+            "Tata Kelola Sistem Informasi",
+            "3",
+            "Irianto, M.Kom",
+            "SELASA",
+            "17:30 – 19:20",
+            "TEORI C8 (KAMPUS 2)"
+        ],
+        [
+            "SI 6Q",
+            "SIKK 6119",
+            "Metodologi Penelitian Ilmu Komputer",
+            "3",
+            "Indra Ramadona Harahap, M.A",
+            "RABU",
+            "19:30 – 21:00",
+            "TEORI C1 (KAMPUS 2)"
+        ],
+        [
+            "SI 6Q",
+            "SIKK 6120",
+            "Keamanan Sistem Informasi",
+            "3",
+            "Riki Andri Yusda, M.Kom",
+            "KAMIS",
+            "17:30 – 19:20",
+            "TEORI C7 (KAMPUS 2)"
+        ],
+        [
+            "SI 6Q",
+            "SIKK 6121",
+            "Etika Profesi IT",
+            "2",
+            "Febby Madonna Yuma, M.Kom.",
+            "RABU",
+            "19:30 – 21:00",
+            "TEORI C9 (KAMPUS 2)"
+        ],
+        [
+            "SI 6Q",
+            "SIKK 6122",
+            "Manajemen Pengetahuan",
+            "2",
+            "Pristianilicia Putri, M.M",
+            "SENIN",
+            "19:30 – 21:00",
+            "TEORI C6 (KAMPUS 2)"
+        ],
+        [
+            "SI 8 A",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 B",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 C",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 D",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 E",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 F",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 G",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 H",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 I",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 J",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 K",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 L",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 M",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 O",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 P",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 Q",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 R",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 S",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "SI 8 T",
+            "SIPB8302",
+            "Skripsi",
+            "6",
+            "Dosen Pembimbing Skripsi",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "TK 6A",
+            "TKPB542",
+            "Tugas Akhir",
+            "4",
+            "Dosen Pembimbing TA",
+            "–",
+            "–",
+            "–"
+        ],
+        [
+            "MI 6A",
+            "MIPB644",
+            "Tugas Akhir",
+            "4",
+            "Dosen Pembimbing TA",
+            "–",
+            "–",
+            "–"
+        ]
+    ]
+}

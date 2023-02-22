@@ -10,7 +10,7 @@ connection = (sock, startBot) => {
         startBot()
       }
     } else if (connection === 'open') {
-      console.log('Terhubung')
+      console.log('Connection: '+ connection)
     }
   })
 }
